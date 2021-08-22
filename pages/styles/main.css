@@ -20,3 +20,7 @@ div span{
   color:red;
   font-weight:bolder;
 }
+#bus-info{
+  background-color:lightgray;
+  padding:1%;
+}
