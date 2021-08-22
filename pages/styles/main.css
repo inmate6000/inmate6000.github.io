@@ -1,0 +1,22 @@
+:root{
+  margin:2%;
+}
+.paid-cur,.total-cur{
+  display:inline;
+}
+div.main{
+  display:block;
+  padding-left:auto;
+  padding-right:auto;
+  text-align:center;
+}
+.paid-cur{
+  margin-right:5%;
+}
+div span{
+  margin-left:5%;
+}
+.interest{
+  color:red;
+  font-weight:bolder;
+}
